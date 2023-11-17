@@ -6,12 +6,11 @@
 
 # Scheduler for ASP.NET Web Forms - How to bind scheduler to MS SQL Server database
 
-This example demonstrates how to bind the [ASPxScheduler](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxScheduler.ASPxScheduler) control to a database located at MS SQL Server 2005. The project includes the [CarsXtraScheduling.sql](./CS/WebSite/App_Data/CarsXtraScheduling.sql) (VB: [CarsXtraScheduling.sql](./VB/WebSite/App_Data/CarsXtraScheduling.sql)) file that contains data table scripts. Sample data are attached in the [sql_data.sql](./CS/WebSite/App_Data/sql_data.sql) (VB: [sql_data.sql](./VB/WebSite/App_Data/sql_data.sql)) file. The file contains `INSERT` statements that can be executed to generate the data.
+This example demonstrates how to bind the [ASPxScheduler](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxScheduler.ASPxScheduler) control to a database located at MS SQL Server 2005.
 
-## Files to Review
+* [CarsXtraScheduling.sql](./CS/WebSite/App_Data/CarsXtraScheduling.sql) (VB: [CarsXtraScheduling.sql](./VB/WebSite/App_Data/CarsXtraScheduling.sql)) -- contains data table scripts.
+* [sql_data.sql](./CS/WebSite/App_Data/sql_data.sql) (VB: [sql_data.sql](./VB/WebSite/App_Data/sql_data.sql)) -- attaches sample data. The file contains `INSERT` statements that can be executed to generate the data.
 
-* [CarsXtraScheduling.sql](./CS/WebSite/App_Data/CarsXtraScheduling.sql) (VB: [CarsXtraScheduling.sql](./VB/WebSite/App_Data/CarsXtraScheduling.sql))
-* [sql_data.sql](./CS/WebSite/App_Data/sql_data.sql) (VB: [sql_data.sql](./VB/WebSite/App_Data/sql_data.sql))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 
