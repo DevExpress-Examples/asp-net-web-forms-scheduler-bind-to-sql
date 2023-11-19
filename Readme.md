@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Scheduler for ASP.NET Web Forms - How to bind scheduler to MS SQL Server database
+# Scheduler for ASP.NET Web Forms - How to bind a scheduler to a MS SQL Server database
 
 This example demonstrates how to bind the [ASPxScheduler](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxScheduler.ASPxScheduler) control to a database located at MS SQL Server 2005.
 
